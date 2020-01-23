@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="windows-1250" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-01-22T09:10:24.754190500Z</date>
+  <millis>1579684224754</millis>
+  <nanos>190500</nanos>
+  <sequence>0</sequence>
+  <logger>Andrzej</logger>
+  <level>INFO</level>
+  <class>macura.andrzej.CalculatorFacade</class>
+  <method>calculate</method>
+  <thread>17</thread>
+  <message>Calculating Started</message>
+</record>
+<record>
+  <date>2020-01-22T09:10:24.812193800Z</date>
+  <millis>1579684224812</millis>
+  <nanos>193800</nanos>
+  <sequence>1</sequence>
+  <logger>Andrzej</logger>
+  <level>INFO</level>
+  <class>macura.andrzej.CalculatorFacade</class>
+  <method>calculate</method>
+  <thread>17</thread>
+  <message>Converting to onp</message>
+</record>
+<record>
+  <date>2020-01-22T09:10:24.817194100Z</date>
+  <millis>1579684224817</millis>
+  <nanos>194100</nanos>
+  <sequence>2</sequence>
+  <logger>Andrzej</logger>
+  <level>INFO</level>
+  <class>macura.andrzej.CalculatorFacade</class>
+  <method>calculate</method>
+  <thread>17</thread>
+  <message>Calculating </message>
+</record>
+<record>
+  <date>2020-01-22T09:10:24.820194300Z</date>
+  <millis>1579684224820</millis>
+  <nanos>194300</nanos>
+  <sequence>3</sequence>
+  <logger>Andrzej</logger>
+  <level>INFO</level>
+  <class>macura.andrzej.CalculatorFacade</class>
+  <method>calculate</method>
+  <thread>17</thread>
+  <message>returning 6.0</message>
+</record>
+<record>
+  <date>2020-01-22T09:10:39.360025900Z</date>
+  <millis>1579684239360</millis>
+  <nanos>25900</nanos>
+  <sequence>4</sequence>
+  <logger>Andrzej</logger>
+  <level>INFO</level>
+  <class>macura.andrzej.CalculatorFacade</class>
+  <method>calculate</method>
+  <thread>17</thread>
+  <message>Calculating Started</message>
+</record>
+<record>
+  <date>2020-01-22T09:10:39.362026Z</date>
+  <millis>1579684239362</millis>
+  <nanos>26000</nanos>
+  <sequence>5</sequence>
+  <logger>Andrzej</logger>
+  <level>INFO</level>
+  <class>macura.andrzej.CalculatorFacade</class>
+  <method>calculate</method>
+  <thread>17</thread>
+  <message>Converting to onp</message>
+</record>
+<record>
+  <date>2020-01-22T09:10:39.366026200Z</date>
+  <millis>1579684239366</millis>
+  <nanos>26200</nanos>
+  <sequence>6</sequence>
+  <logger>Andrzej</logger>
+  <level>INFO</level>
+  <class>macura.andrzej.CalculatorFacade</class>
+  <method>calculate</method>
+  <thread>17</thread>
+  <message>Calculating </message>
+</record>
+<record>
+  <date>2020-01-22T09:10:39.371026500Z</date>
+  <millis>1579684239371</millis>
+  <nanos>26500</nanos>
+  <sequence>7</sequence>
+  <logger>Andrzej</logger>
+  <level>WARNING</level>
+  <class>macura.andrzej.CalculatorFacade</class>
+  <method>calculate</method>
+  <thread>17</thread>
+  <message>zla ilosc argumentow</message>
+</record>
+<record>
+  <date>2020-01-22T09:10:54.328882100Z</date>
+  <millis>1579684254328</millis>
+  <nanos>882100</nanos>
+  <sequence>8</sequence>
+  <logger>Andrzej</logger>
+  <level>INFO</level>
+  <class>macura.andrzej.CalculatorFacade</class>
+  <method>calculate</method>
+  <thread>17</thread>
+  <message>Calculating Started</message>
+</record>
+<record>
+  <date>2020-01-22T09:10:54.330882200Z</date>
+  <millis>1579684254330</millis>
+  <nanos>882200</nanos>
+  <sequence>9</sequence>
+  <logger>Andrzej</logger>
+  <level>INFO</level>
+  <class>macura.andrzej.CalculatorFacade</class>
+  <method>calculate</method>
+  <thread>17</thread>
+  <message>Converting to onp</message>
+</record>
+<record>
+  <date>2020-01-22T09:10:54.332882300Z</date>
+  <millis>1579684254332</millis>
+  <nanos>882300</nanos>
+  <sequence>10</sequence>
+  <logger>Andrzej</logger>
+  <level>INFO</level>
+  <class>macura.andrzej.CalculatorFacade</class>
+  <method>calculate</method>
+  <thread>17</thread>
+  <message>Calculating </message>
+</record>
+<record>
+  <date>2020-01-22T09:10:54.336882500Z</date>
+  <millis>1579684254336</millis>
+  <nanos>882500</nanos>
+  <sequence>11</sequence>
+  <logger>Andrzej</logger>
+  <level>INFO</level>
+  <class>macura.andrzej.CalculatorFacade</class>
+  <method>calculate</method>
+  <thread>17</thread>
+  <message>returning 4.0</message>
+</record>
+<record>
+  <date>2020-01-22T09:11:10.200789900Z</date>
+  <millis>1579684270200</millis>
+  <nanos>789900</nanos>
+  <sequence>12</sequence>
+  <logger>Andrzej</logger>
+  <level>INFO</level>
+  <class>macura.andrzej.CalculatorFacade</class>
+  <method>calculate</method>
+  <thread>17</thread>
+  <message>Calculating Started</message>
+</record>
+<record>
+  <date>2020-01-22T09:11:10.203790100Z</date>
+  <millis>1579684270203</millis>
+  <nanos>790100</nanos>
+  <sequence>13</sequence>
+  <logger>Andrzej</logger>
+  <level>INFO</level>
+  <class>macura.andrzej.CalculatorFacade</class>
+  <method>calculate</method>
+  <thread>17</thread>
+  <message>Converting to onp</message>
+</record>
+<record>
+  <date>2020-01-22T09:11:10.208790300Z</date>
+  <millis>1579684270208</millis>
+  <nanos>790300</nanos>
+  <sequence>14</sequence>
+  <logger>Andrzej</logger>
+  <level>INFO</level>
+  <class>macura.andrzej.CalculatorFacade</class>
+  <method>calculate</method>
+  <thread>17</thread>
+  <message>Calculating </message>
+</record>
+<record>
+  <date>2020-01-22T09:11:10.212790600Z</date>
+  <millis>1579684270212</millis>
+  <nanos>790600</nanos>
+  <sequence>15</sequence>
+  <logger>Andrzej</logger>
+  <level>INFO</level>
+  <class>macura.andrzej.CalculatorFacade</class>
+  <method>calculate</method>
+  <thread>17</thread>
+  <message>returning 10.0</message>
+</record>
+<record>
+  <date>2020-01-22T09:11:20.544381500Z</date>
+  <millis>1579684280544</millis>
+  <nanos>381500</nanos>
+  <sequence>16</sequence>
+  <logger>Andrzej</logger>
+  <level>INFO</level>
+  <class>macura.andrzej.CalculatorFacade</class>
+  <method>calculate</method>
+  <thread>17</thread>
+  <message>Calculating Started</message>
+</record>
+<record>
+  <date>2020-01-22T09:11:20.547381700Z</date>
+  <millis>1579684280547</millis>
+  <nanos>381700</nanos>
+  <sequence>17</sequence>
+  <logger>Andrzej</logger>
+  <level>INFO</level>
+  <class>macura.andrzej.CalculatorFacade</class>
+  <method>calculate</method>
+  <thread>17</thread>
+  <message>Converting to onp</message>
+</record>
+<record>
+  <date>2020-01-22T09:11:20.553382Z</date>
+  <millis>1579684280553</millis>
+  <nanos>382000</nanos>
+  <sequence>18</sequence>
+  <logger>Andrzej</logger>
+  <level>INFO</level>
+  <class>macura.andrzej.CalculatorFacade</class>
+  <method>calculate</method>
+  <thread>17</thread>
+  <message>Calculating </message>
+</record>
+<record>
+  <date>2020-01-22T09:11:20.557382200Z</date>
+  <millis>1579684280557</millis>
+  <nanos>382200</nanos>
+  <sequence>19</sequence>
+  <logger>Andrzej</logger>
+  <level>INFO</level>
+  <class>macura.andrzej.CalculatorFacade</class>
+  <method>calculate</method>
+  <thread>17</thread>
+  <message>returning Infinity</message>
+</record>
+<record>
+  <date>2020-01-22T09:11:31.529009800Z</date>
+  <millis>1579684291529</millis>
+  <nanos>9800</nanos>
+  <sequence>20</sequence>
+  <logger>Andrzej</logger>
+  <level>INFO</level>
+  <class>macura.andrzej.CalculatorFacade</class>
+  <method>calculate</method>
+  <thread>17</thread>
+  <message>Calculating Started</message>
+</record>
+<record>
+  <date>2020-01-22T09:11:31.531009900Z</date>
+  <millis>1579684291531</millis>
+  <nanos>9900</nanos>
+  <sequence>21</sequence>
+  <logger>Andrzej</logger>
+  <level>INFO</level>
+  <class>macura.andrzej.CalculatorFacade</class>
+  <method>calculate</method>
+  <thread>17</thread>
+  <message>Converting to onp</message>
+</record>
+<record>
+  <date>2020-01-22T09:11:31.534010100Z</date>
+  <millis>1579684291534</millis>
+  <nanos>10100</nanos>
+  <sequence>22</sequence>
+  <logger>Andrzej</logger>
+  <level>INFO</level>
+  <class>macura.andrzej.CalculatorFacade</class>
+  <method>calculate</method>
+  <thread>17</thread>
+  <message>Calculating </message>
+</record>
+<record>
+  <date>2020-01-22T09:11:31.537010200Z</date>
+  <millis>1579684291537</millis>
+  <nanos>10200</nanos>
+  <sequence>23</sequence>
+  <logger>Andrzej</logger>
+  <level>WARNING</level>
+  <class>macura.andrzej.CalculatorFacade</class>
+  <method>calculate</method>
+  <thread>17</thread>
+  <message>zla ilosc argumentow</message>
+</record>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="windows-1250" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-01-22T01:15:35.480661200Z</date>
+  <millis>1579655735480</millis>
+  <nanos>661200</nanos>
+  <sequence>0</sequence>
+  <logger>Andrzej</logger>
+  <level>WARNING</level>
+  <class>macura.andrzej.App</class>
+  <method>printSth</method>
+  <thread>1</thread>
+  <message>ciastko</message>
+</record>
+<record>
+  <date>2020-01-22T01:15:35.514663100Z</date>
+  <millis>1579655735514</millis>
+  <nanos>663100</nanos>
+  <sequence>1</sequence>
+  <logger>Andrzej</logger>
+  <level>WARNING</level>
+  <class>macura.andrzej.App</class>
+  <method>printSth</method>
+  <thread>1</thread>
+  <message>ciastko</message>
+</record>
+<record>
+  <date>2020-01-22T01:15:35.515663200Z</date>
+  <millis>1579655735515</millis>
+  <nanos>663200</nanos>
+  <sequence>2</sequence>
+  <logger>Andrzej</logger>
+  <level>WARNING</level>
+  <class>macura.andrzej.App</class>
+  <method>printSth</method>
+  <thread>1</thread>
+  <message>ciastko</message>
+</record>
+</log>

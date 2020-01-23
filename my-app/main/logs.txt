@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="windows-1250" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-01-22T01:18:36.892037300Z</date>
+  <millis>1579655916892</millis>
+  <nanos>37300</nanos>
+  <sequence>0</sequence>
+  <logger>Andrzej</logger>
+  <level>INFO</level>
+  <class>macura.andrzej.CalculatorFacade</class>
+  <method>calculate</method>
+  <thread>1</thread>
+  <message>Calculating Started</message>
+</record>
+<record>
+  <date>2020-01-22T01:18:36.925039200Z</date>
+  <millis>1579655916925</millis>
+  <nanos>39200</nanos>
+  <sequence>1</sequence>
+  <logger>Andrzej</logger>
+  <level>INFO</level>
+  <class>macura.andrzej.CalculatorFacade</class>
+  <method>calculate</method>
+  <thread>1</thread>
+  <message>Converting to onp</message>
+</record>
+<record>
+  <date>2020-01-22T01:18:36.930039500Z</date>
+  <millis>1579655916930</millis>
+  <nanos>39500</nanos>
+  <sequence>2</sequence>
+  <logger>Andrzej</logger>
+  <level>INFO</level>
+  <class>macura.andrzej.CalculatorFacade</class>
+  <method>calculate</method>
+  <thread>1</thread>
+  <message>Calculating </message>
+</record>
+<record>
+  <date>2020-01-22T01:18:36.932039600Z</date>
+  <millis>1579655916932</millis>
+  <nanos>39600</nanos>
+  <sequence>3</sequence>
+  <logger>Andrzej</logger>
+  <level>INFO</level>
+  <class>macura.andrzej.CalculatorFacade</class>
+  <method>calculate</method>
+  <thread>1</thread>
+  <message>returning 4.0</message>
+</record>
+</log>
