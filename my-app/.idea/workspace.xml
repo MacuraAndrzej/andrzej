@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5b9817ce-a9bb-457b-a44a-f1241d49a9d3" name="Default Changelist" comment="" />
+    <list default="true" id="5b9817ce-a9bb-457b-a44a-f1241d49a9d3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculator/src/main/java/macura/andrzej/CalculatorFacade.java" beforeDir="false" afterPath="$PROJECT_DIR$/Calculator/src/main/java/macura/andrzej/CalculatorFacade.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculator/src/main/java/macura/andrzej/Converter.java" beforeDir="false" afterPath="$PROJECT_DIR$/Calculator/src/main/java/macura/andrzej/Converter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculator/target/Calculator-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Calculator/target/Calculator-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculator/target/classes/macura/andrzej/CalculatorFacade.class" beforeDir="false" afterPath="$PROJECT_DIR$/Calculator/target/classes/macura/andrzej/CalculatorFacade.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculator/target/classes/macura/andrzej/Converter.class" beforeDir="false" afterPath="$PROJECT_DIR$/Calculator/target/classes/macura/andrzej/Converter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculator/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Calculator/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/target/logs.txt" beforeDir="false" afterPath="$PROJECT_DIR$/main/target/logs.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/target/main-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/main/target/main-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/main/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/target/original-main-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/main/target/original-main-1.0-SNAPSHOT.jar" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +27,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1WiiFQCsKlqE3COf6shPkSgOaWS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,6 +39,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager">
@@ -76,6 +94,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="763" y="219" key="#Inspections/0.0.1920.1040@0.0.1920.1040" timestamp="1579657987055" />
+    <state x="700" y="378" key="#com.intellij.refactoring.move.moveInstanceMethod.MoveInstanceMethodDialog" timestamp="1579797305874">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="700" y="378" key="#com.intellij.refactoring.move.moveInstanceMethod.MoveInstanceMethodDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1579797305874" />
     <state width="1340" height="320" key="GridCell.Tab.0.bottom" timestamp="1579659294730">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -112,9 +134,20 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="498" height="446" key="SwitcherDM/0.0.1920.1040@0.0.1920.1040" timestamp="1579656430332" />
-    <state x="866" y="384" key="com.intellij.ide.util.TipDialog" timestamp="1579679215029">
+    <state x="866" y="384" key="com.intellij.ide.util.TipDialog" timestamp="1579796743065">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="866" y="384" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1579679215029" />
+    <state x="866" y="384" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1579796743065" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Calculator/src/main/java/macura/andrzej/Converter.java</url>
+          <line>87</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

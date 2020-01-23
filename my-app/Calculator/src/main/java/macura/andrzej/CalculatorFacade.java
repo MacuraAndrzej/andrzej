@@ -20,7 +20,7 @@ public class CalculatorFacade {
 			logger.info("Converting to onp");
 			String Onp = Converter.toOnpFromInfix(equesion);
 			logger.info("Calculating ");
-			result = calculateFromOnp(Onp);
+			result = Converter.calculateFromOnp(Onp,calc);
 			logger.info("returning " + result);
 		}
 		catch (EmptyStackException e)
@@ -32,55 +32,6 @@ public class CalculatorFacade {
 
 		return result.toString();
 	}
-	private  Double calculateFromOnp(String OnpEquesion)
-	{
 
-		Double result = Double.valueOf(0);
-		Scanner input = new Scanner(OnpEquesion);
-		Stack<Double> stos = new Stack<Double>();
-		while(input.hasNext())
-		{
-			String operator = input.next();
-			try {
-				Double num = Double.parseDouble(operator);
-				stos.push(num);
-			}
-			catch (NumberFormatException e) {
-
-				switch (operator){
-					case "+":
-						result =calc.sum(stos.pop(),stos.pop());
-						stos.push(result);
-						break;
-					case "-":
-						result =calc.subtraction(stos.pop(),stos.pop());
-						stos.push(result);
-						break;
-					case "*":
-						result =calc.multiply(stos.pop(),stos.pop());
-						stos.push(result);
-						break;
-					case "/":
-						result =calc.divide(stos.pop(),stos.pop());
-						stos.push(result);
-						break;
-					case "pow":
-						result =calc.power(stos.pop(),stos.pop());
-						stos.push(result);
-						break;
-					case "sqrt":
-						result =calc.sqrt(stos.pop());
-						stos.push(result);
-						break;
-
-
-
-
-				}
-			}
-		}
-		return result;
-
-		}
 
 }

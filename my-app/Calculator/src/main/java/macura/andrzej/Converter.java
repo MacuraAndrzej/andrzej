@@ -110,5 +110,54 @@ public abstract class Converter {
 	{
 		return operator.compareTo("(")==0;
 	}
+	public static  Double calculateFromOnp(String OnpEquesion,ICalculator calc)
+	{
 
+		Double result = Double.valueOf(0);
+		Scanner input = new Scanner(OnpEquesion);
+		Stack<Double> stos = new Stack<Double>();
+		while(input.hasNext())
+		{
+			String operator = input.next();
+			try {
+				Double num = Double.parseDouble(operator);
+				stos.push(num);
+			}
+			catch (NumberFormatException e) {
+
+				switch (operator){
+					case "+":
+						result =calc.sum(stos.pop(),stos.pop());
+						stos.push(result);
+						break;
+					case "-":
+						result =calc.subtraction(stos.pop(),stos.pop());
+						stos.push(result);
+						break;
+					case "*":
+						result =calc.multiply(stos.pop(),stos.pop());
+						stos.push(result);
+						break;
+					case "/":
+						result =calc.divide(stos.pop(),stos.pop());
+						stos.push(result);
+						break;
+					case "pow":
+						result =calc.power(stos.pop(),stos.pop());
+						stos.push(result);
+						break;
+					case "sqrt":
+						result =calc.sqrt(stos.pop());
+						stos.push(result);
+						break;
+
+
+
+
+				}
+			}
+		}
+		return result;
+
+	}
 }
